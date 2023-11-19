@@ -59,6 +59,6 @@ export const experiences: Experience[] = [
     title: 'Principal Software Engineer',
     company: 'Cortina Platform',
     description:
-      'As a tech lead, I establish code standards and best practices while mentoring engineers on their skill development and implementation details. I design and implement distributed systems with AWS and Typescript and integrate with various e-commerce platforms.',
+      'As a tech lead, I establish code standards and best practices while mentoring engineers on their skill development and implementation details. Cortina is an e-commerce platform-agnostic SaaS facilitating drop-shipping supplier and marketplace networks. I design and implement distributed systems infrastructures with AWS and Typescript and integrate with various e-commerce platforms.',
   },
 ]
