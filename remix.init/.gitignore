@@ -1,9 +1,5 @@
-# Package manager stuff
 node_modules
-/.cache
 
-# Outputs
-/build
 /public/build
 /server/index.mjs
 /server/index.mjs.map
@@ -12,14 +8,7 @@ node_modules
 preferences.arc
 sam.json
 sam.yaml
-
-
-# ENVs
 .env
 
-# Webstorm stuff
-.idea
-
-# Cypress stuff
 /cypress/screenshots
 /cypress/videos

@@ -15,7 +15,9 @@ module.exports = {
     "jsx-a11y/anchor-is-valid": "off"
   },
   ignorePatterns: [
-    "node_modules/",
+    "/node_modules",
+    "/server/index.js",
+    "/public/build",
     "dist/",
     "build/",
     ".cache/"
