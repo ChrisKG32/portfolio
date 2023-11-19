@@ -83,6 +83,9 @@ jobs:
       - name: 🏗 Build
         run: bun run build
 
+      - name: 📥 Install Remix plugin deps
+        run: cd remix.init && bun install && cd ..
+
       - name: 🛠 Install Arc
         run: bun i -g @architect/architect
 
